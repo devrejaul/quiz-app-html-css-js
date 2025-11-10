@@ -53,7 +53,7 @@ python -m http.server 5500
 ## 🖼️ Screenshots
 > Save your screenshots to the `img/` folder with the following names (then they will render below).
 ```
-img/
+frontend_quiz_flowchart/
 ├── screenshot-home.png
 ├── screenshot-quiz.png
 └── screenshot-result.png
