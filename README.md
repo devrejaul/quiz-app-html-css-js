@@ -61,7 +61,7 @@ frontend_quiz_flowchart/
 
 | Home | Quiz | Result |
 |------|-----|--------|
-| ![Home](./img/screenshot-home.png) | ![Quiz](./img/screenshot-quiz.png) | ![Result](./img/screenshot-result.png) |
+| ![Home](./frontend_quiz_flowchart/screenshot-home.png) | ![Quiz](./frontend_quiz_flowchart/screenshot-quiz.png) | ![Result](./frontend_quiz_flowchart/screenshot-result.png) |
 
 ## 🌐 Deploy on GitHub Pages
 1. Push code to the `main` branch.  
